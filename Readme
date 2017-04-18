@@ -1,0 +1,12 @@
+
+Notice：此程序仅用于linux系统，若要在windows下使用，将监听事件函数替换，使用pyhook第三方k库即可！
+
+Request：
+    in ubuntu for example
+    please do this in your bash:
+          sudo pip install evdev
+          sudo pip install pycrypto
+
+    
+then start the program by:
+          python fortuna.py -u ....and so on
