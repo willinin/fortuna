@@ -9,4 +9,4 @@ Request：
 
     
 then start the program by:
-          python fortuna.py -u ....and so on
+          sudo python fortuna.py -u ....and so on
